@@ -1,1 +1,8 @@
-"Bu dosya aybuke.txt i‡eriyor." 
+git clone https://github.com/aybuss/roket.git
+cd roket
+echo > aybuke.txt
+git add aybuke.txt
+git commit -m "aybuke.txt dosyasÄ± eklendi"
+git branch
+git push origin main
+
